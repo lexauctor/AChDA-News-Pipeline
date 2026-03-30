@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<noticia>
+    <headline>Título</headline>
+    <byline>Autor</byline>
+    <dateline>DD-MM-YYYY</dateline>
+    <lead>Bajada</lead>
+    <body>
+        Parrafo 1
+
+        Parrafo 2
+
+        Parrafo 3</body>
+    <tail>Para consulta...</tail>
+</noticia>
