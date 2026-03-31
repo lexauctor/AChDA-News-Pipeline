@@ -18,7 +18,7 @@ The date is the linking key between text and media files. One news item per date
 
 XML content must follow the structure in `template.xml`: `<headline>`, `<byline>`, `<dateline>`, `<lead>`, `<body>`, `<tail>`.
 
-The script output follows the same naming format — the translated file will be generated automatically.
+The script output follows the same naming format. The translated file will be generated automatically.
 
 ## How to run the script
 
