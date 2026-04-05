@@ -1,13 +1,14 @@
 # achda-news-pipeline — Context
 
-## Estado actual
-- template.xml creado y pusheado a main
-- README creado y pusheado.
-- Estructura de carpetas diseñada pero no creada aún
-- translate.py (IN PROGRESS). Individual mode already done.
+## Status
+- template.xml created and pushed to main
+- README created and pushed
+- input/ and output/ folders created and pushed
+- translate.py (IN PROGRESS): individual mode complete, batch mode pending
+- venv dependencies installed: deepl, python-dotenv
 
-## Próximo paso
-Continue translate script. 
+## Next step
+Complete translate.py: batch mode + test with real file
 
-## Repositorio
+## Repository
 https://github.com/lexauctor/AChDA-News-Pipeline
